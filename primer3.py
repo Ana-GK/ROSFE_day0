@@ -1,3 +1,5 @@
+#! /usr/bin/python2
+
 class Kvader():
     def __init__(self, a, b):
         self.a = a
